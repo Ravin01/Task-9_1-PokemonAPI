@@ -1,0 +1,18 @@
+body {
+    background-color: #17202A;
+    color: #ECF0F1;
+    height: 100vh;
+}
+
+h3 {
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+.container {
+    padding-top: 15px;
+}
+
+.card {
+    color: #17202A;
+}
